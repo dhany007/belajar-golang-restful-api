@@ -6,7 +6,7 @@ step by step
 2. create  model domain
 3. create repository
 4. create repository implementation
-5. create service
+5. create service 
 6. create service implementation
 7. create router
    a. buat function baru disetiap controllernya_impl, ex: NewCategoryController dan return kan controller interfacenya
